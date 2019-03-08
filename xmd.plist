@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.xingmeidai.com/download/Xmd.ipa</string>
+					<string>http://www.xingmeidai.com/download/xmd.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>itunes显示图片地址</string>
+					<string>http://www.xingmeidai.com/portal/file/downloadImage?n=21953c27174d4dc88ad0e147376a0268.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>安装应用显示的图片</string>
+					<string>http://www.xingmeidai.com/portal/file/downloadImage?n=21953c27174d4dc88ad0e147376a0268.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
