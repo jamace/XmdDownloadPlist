@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.xingmeidai.com/portal/file/downloadImage?n=21953c27174d4dc88ad0e147376a0268.png</string>
+					<string>https://xmd-portal.oss-cn-beijing.aliyuncs.com/manage/2019/3/8/185213001148.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.xingmeidai.com/portal/file/downloadImage?n=21953c27174d4dc88ad0e147376a0268.png</string>
+					<string>https://xmd-portal.oss-cn-beijing.aliyuncs.com/manage/2019/3/8/185112095513.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
